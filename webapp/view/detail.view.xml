@@ -1,0 +1,12 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml"
+	controllerName="zsmktest1zsmk_test1.controller.detail">
+	<App>
+		<pages>
+			<Page title="Just a title">
+				<content>
+					<Button text="Click Me" width="100px" id="__button0"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
